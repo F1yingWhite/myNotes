@@ -1,0 +1,6 @@
+[submodule "Essay"]
+	path = Essay
+	url = https://github.com/F1yingWhite/Essay.git
+[submodule "F1yingWhite.github.io"]
+	path = F1yingWhite.github.io
+	url = https://github.com/F1yingWhite/F1yingWhite.github.io.git
